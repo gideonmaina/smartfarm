@@ -1,2 +1,2 @@
 # smartfarm
-A arduino IoT (hydrponic) greenhouse automation and monitoring project
+A arduino IoT (hydroponic) greenhouse automation and monitoring project
